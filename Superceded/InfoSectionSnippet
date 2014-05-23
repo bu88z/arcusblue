@@ -1,0 +1,195 @@
+						<!--Info container-->
+
+
+						<div class="infoContainer top nTop clearfix">
+							
+							
+						<!--Divider -->
+						<div class="divider"><span><i class="icon-star-filled"></i></span></div>
+						<!--End divider-->
+							 
+							<!--Inner title-->
+							<div class="innerTitle">
+								<h1> my contact information</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+							</div>
+							<!--End inner title-->
+							
+
+							<!--Contact holder-->
+								<div class="infoHolder top">
+									
+								<!--Address-->	
+								<div class="address">
+								<i class="icon-location"></i>
+								<p>The Company Name Inc.1234 Street Road,City Name,IN 567 890.</p>
+								</div>
+								<!--End address-->
+								
+								
+								<!--Info-->
+								<div class="info">
+								<ul>
+									<li><div class="ico"><i class="icon-mail"></i></div>
+									<p>Email : name@gmail.com </p></li>
+									<li><div class="ico"><i class="icon-phone"></i></div>
+									<p>Tel : + 123-456-789</p></li>
+									<li><div class="ico"><i class="icon-link"></i></div>
+										<p>WebSite : <a href="#">www.yoursite.com</a></p></li>
+								</ul>
+								</div>
+								<!--End info-->	
+
+								</div>
+								<!--End contact holder-->
+							
+							
+						</div>
+						<!--End info container-->
+
+
+
+
+
+
+	<!--Testomonials section-->
+								<section id="testimonials">
+									
+								<!--Client container-->
+								<div class="testimoniaContainer">
+
+
+											<!--Overlay-->
+											<div class="overlay">
+											<!--Holder 960-->
+											<div class="holder960 clearfix">
+
+												<!--testimonials content-->
+												<div class="testimonialContent">
+
+													<!--Testi-->
+												<div class="testi ">
+													<blockquote >Being the richest man in the cemetery doesn't matter to me.
+														 Going to bed at night saying we've done something wonderful... that's what matters to me </blockquote>
+
+											<!--Testi profile-->
+											<div class="testiProfile">
+												<div class="icoQuote"><i class="icon-quote-right"></i></div>
+												<div class="nameProfile">
+														<h3>Steve Jobs</h3>
+												</div>
+											</div>
+											<!--End testi profile-->
+												</div>
+												<!--End testi-->
+
+
+
+													<!--Testi-->
+														<div class="testi">
+													<blockquote>That’s been one of my mantras — focus and simplicity.
+														 Simple can be harder than complex you have to work hard to get your thinking clean to make it simple</blockquote>
+
+
+													<!--Testi profile-->
+													<div class="testiProfile">
+													<div class="icoQuote"><i class="icon-quote-right"></i></div>
+													<div class="nameProfile">
+															<h3>Steve Jobs</h3>
+													</div>
+													</div>
+													<!--End testi profile-->
+														</div>
+											<!--End testi-->
+
+													</div>
+													<!--End testimonials content-->
+													</div>
+													<!--End Holder 960-->
+
+														</div>
+														<!--End overlay-->
+											</div>
+											<!--End testimonia container-->
+
+											</section>
+											<!--End testomonials section-->
+
+
+<!-- Skill Section - Skill Bar -->
+
+<div class="skillsHolder clearfix top nBottom ">
+
+									<!--Skills holder -->
+									<div class="skills column">
+										<!--Skill-->
+										<div class="skillBar">            
+										     <div class="skillbarHolder">
+										      <div class="skillbarTitle">Web Design</div>
+										      <div class="percentage percent90"><span>90%</span></div>    
+										      </div>              
+										</div>
+										<!--End skill-->
+
+										<!--Skill-->
+										<div class="skillBar">            
+										     <div class="skillbarHolder">
+										      <div class="skillbarTitle">Wordpress</div>
+										      <div class="percentage percent50"><span>60%</span></div>    
+										      </div>              
+										</div>
+										<!--End skill-->
+
+
+										<!--Skill-->
+										<div class="skillBar">            
+										     <div class="skillbarHolder">
+										      <div class="skillbarTitle">Jquery</div>
+										      <div class="percentage percent60"><span>70%</span></div>    
+										      </div>              
+										</div>
+										<!--End skill-->
+
+										<!--Skill-->
+										<div class="skillBar">            
+										     <div class="skillbarHolder">
+										      <div class="skillbarTitle">Html/Css</div>
+										      <div class="percentage percent95"><span>95%</span></div>    
+										      </div>              
+										</div>
+										<!--End skill-->
+
+
+										</div>
+										<!--End skills-->
+
+									<div class="textWidget column">
+										<h1>Get To Now Me</h1>
+										<p>I'm not a fan of quantifying skills in percentages, such as: Networking: 85%. What does that mean anyway? So find on the left a list of what I'm good at.<br> Duis aute irure dolor in reprehenderit
+											 in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo consequat
+											eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+									</div>
+
+								</div>
+								<!--End skills holder -->
+								</div>	
+								<!--End skills-->			
+				
+							</div>
+						<!--End Holder 960-->
+
+
+
+
+
+
+
+							<!--Share-->	
+										<div class="share ">
+											<ul class="socialsFooter">
+													<li><a href="#"><i class="icon-facebook"></i></a></li>
+													<li><a href="#"><i class="icon-twitter"></i></a></li>
+												 
+											</ul>
+										</div>
+									<!--End share-->
